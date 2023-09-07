@@ -1,2 +1,2 @@
 # Ir.py
-This App is Use for  cheat openAI if user use this App enter openAi key
+This  is a chatgpt app if user use this enter openai key
